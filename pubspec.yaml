@@ -1,4 +1,4 @@
-name: cats_vs_dogs_dl
+name: flower_detection
 description: A new Flutter project.
 
 publish_to: "none" # Remove this line if you wish to publish to pub.dev

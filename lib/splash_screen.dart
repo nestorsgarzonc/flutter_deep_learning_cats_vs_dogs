@@ -14,7 +14,7 @@ class _MySplashState extends State<MySplash> {
     return SplashScreen(
       seconds: 2,
       navigateAfterSeconds: Home(),
-      title: Text('Dogs vs cat', style: TextStyle(color: Colors.white)),
+      title: Text('Flower recognicer', style: TextStyle(color: Colors.white)),
       backgroundColor: Colors.black,
     );
   }

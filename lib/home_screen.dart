@@ -10,7 +10,7 @@ class Home extends StatefulWidget {
 }
 
 class _HomeState extends State<Home> {
-  bool isLoading = true;
+  bool isLoading = false;
   File _image;
   List _output;
   final picker = ImagePicker();

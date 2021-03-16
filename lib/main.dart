@@ -1,5 +1,5 @@
-import 'package:cats_vs_dogs_dl/splash_screen.dart';
 import 'package:flutter/material.dart';
+import 'splash_screen.dart';
 
 void main() => runApp(MyApp());
 
