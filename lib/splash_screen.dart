@@ -19,4 +19,3 @@ class _MySplashState extends State<MySplash> {
     );
   }
 }
- 
