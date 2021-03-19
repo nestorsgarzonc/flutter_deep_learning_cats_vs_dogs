@@ -16,7 +16,7 @@ class _HomeState extends State<Home> {
   final picker = ImagePicker();
 
   @override
-  void initState() {
+  void initState() { 
     super.initState();
     loadModel().then((e) {
       setState(() {});
